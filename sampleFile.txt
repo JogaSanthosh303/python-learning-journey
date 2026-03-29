@@ -1,0 +1,1 @@
+ now write and read  operations but truncate possible 
